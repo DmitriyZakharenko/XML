@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bug report>
+  <req id="1">
+    <Короткое описание (Bug Summary)>...</Короткое описание (Bug Summary)>
+    <Серьезность (Severity)>...</Серьезность (Severity)>
+    <Шаги к воспроизведению (Steps to reproduce)>...</Шаги к воспроизведению (Steps to reproduce)>
+    <Результат (Actual Result)>...</Результат (Actual Result)>
+    <Ожидаемый результат (Expected Result)">...</Ожидаемый результат (Expected Result)>
+  </req>
+</bug report>
