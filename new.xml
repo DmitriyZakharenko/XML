@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<about me>
+  <req id="1">
+    "Full name":"Zakharenko Dmitriy Vladimirovich",
+	  "Age":"29",
+	  "Number of pets":"one cat",
+	  "Desired salary":"2000$"
+  </req>
+</about me>
