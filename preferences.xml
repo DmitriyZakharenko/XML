@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<preferences>
+  <req id="1">
+    "My favorite movie":"The Lord of the Rings",
+  	"My favorite series":"Game of Thrones",
+  	"My favorite  food":"Borsh",
+  	"My favorite season":"Winter",
+    "My favorite  country which I want to visit":"New Zealand"
+  </req>
+</preferences>
